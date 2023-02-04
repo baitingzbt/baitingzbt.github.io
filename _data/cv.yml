@@ -1,0 +1,40 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Undergraduate
+      institution: University of California, Los Angeles (UCLA)
+      year: 2019 - 2023
+      description:
+        - Major in Math of Computation, Minor in Statistics
+        - Machine Intelligence group
+    - title: High School
+      institution: Westtown School, PA, USA
+      year: 2015 - 2019
+      description:
+        - Highest Scholarship Award
+        - Math Club Head, Varsity Swimming, The Lane Math Award
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Microsoft Research Asia (MSRA)
+      year: Jan 2023 - Now
+      description:
+        - Meta Reinforcement Learning.
+    - title: Undergraduate Researcher
+      institution: Machine Intelligence group
+      year: Apr 2022 - Now
+      description:
+        - Multi-Objective Reinforcement Learning.
+    - title: Deep Learning Engineer Intern
+      institution: Kuaishou Technology
+      year: Mar 2021 - July 2021
+      description:
+        - Search model beased on BERT.
+        - Data pipeline optimizaiton.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Swimming, Gym, Singing(?)
