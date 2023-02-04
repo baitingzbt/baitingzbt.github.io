@@ -1,11 +1,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Undergraduate
+    - title: Bachelor of Science
       institution: University of California, Los Angeles (UCLA)
       year: 2019 - 2023
       description:
         - Major in Math of Computation, Minor in Statistics
+        - GPA 3.94/4.00
         - Machine Intelligence group
     - title: High School
       institution: Westtown School, PA, USA
@@ -33,6 +34,24 @@
       description:
         - Search model beased on BERT.
         - Data pipeline optimizaiton.
+
+- title: Skills
+  type: list
+  contents:
+    - <u>Programming:</u> Python, C++, Shell, R, SQL, LISP
+    - <u>Packages:</u> PyTorch, Matplotlib, Sklearn, ...
+
+- title: Graduate & Undergrad Courses
+  type: list
+  contents:
+    - <b>COM SCI 269 (A)</b> - Deep Generative Models
+    - <b>COM SCI 249 (A)</b> - Graph Neural Networks
+    - <b>STATS M231A (A)</b> - Pattern Recognition and Machine Learning
+    - <b>STATS 231B (A)</b> - Methods of Machine Learning
+    - <b>EC Engr 236B (IP)</b> - Convex Optimization
+    - <b>COM SCI Ugrad</b> - Directed Research, Artificial Intelligence, Deep Learning for Computer Vision, Data Management Systems, Advanced Programming C++
+    - <b>MATH Ugrad</b> - Probability, Mathematical Statistics, Stochastic Processes, Algorithms, Applied Numerical Analysis, Mathematical Methods for Data Theory, Machine Learning, Linear Algebra, Multivariable Calculus, Discrete Mathematics, Differential Equations, Real Analysis, Complex Analysis
+    - <b>STATS Ugrad</b> - Monte Carlo Methods, Linear Models, Data Mining, Experiment Design, Data Analysis & Regression, Probablistic Decision Making, Statistical Programming, Statistical Reasoning
 
 - title: Other Interests
   type: list
