@@ -1,0 +1,7 @@
+Serve:
+
+cd baitingzbt.github.io
+bundle exec jekyll serve
+
+
+Deploy:

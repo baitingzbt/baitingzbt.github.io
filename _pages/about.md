@@ -12,7 +12,7 @@ profile:
     <p>10933 Rochester Ave, Los Angeles, CA 90024</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -20,4 +20,4 @@ I am a 4th year undergraduate student at University of California, Los Angeles (
 
 Previously, I worked at [Kuaishou Technology](https://www.kuaishou.com/en) as an deep learning engineer intern where I built search models and managed data pipelines. Currently, I am a student researcher at [Machine Intelligence (MINT) group](https://aditya-grover.github.io/group/) where I am fortunate to be advised by [Prof. Aditya Grover](https://aditya-grover.github.io/); and a research intern at [Microsoft Research Asia (MSRA)](https://www.msra.cn/), ML/RL team where I am fortunate to be advised by [Dr. Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/).
 
-As an undergraduate researcher, I am still working on projects and papers. Feel free to check out my [Google Scholar](https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=SDAr2FEAAAAJ) and [LinkedIn](https://www.linkedin.com/in/baitingzbt/). My current project is focusing on Meta Reinforcement Learning.
+<!-- As an undergraduate researcher, I am still working on projects and papers. Feel free to check out my [Google Scholar](https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=SDAr2FEAAAAJ) and [LinkedIn](https://www.linkedin.com/in/baitingzbt/). My current project is focusing on Meta Reinforcement Learning. -->
