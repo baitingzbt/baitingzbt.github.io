@@ -1,6 +1,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: MSCS
+      institution: Stanford University
+      year: 2023 - 2025
+      description:
+        - Incoming student in Fall 2023, major in Computer Science.
+        - Highly enthusiastic in potential research opportunities!!
     - title: Bachelor of Science
       institution: University of California, Los Angeles (UCLA)
       year: 2019 - 2023
