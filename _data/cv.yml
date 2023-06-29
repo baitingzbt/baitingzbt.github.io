@@ -31,7 +31,7 @@
         - Meta Reinforcement Learning.
     - title: Undergraduate Researcher
       institution: Machine Intelligence group
-      year: Apr 2022 - Now
+      year: Apr 2022 - Apr 2023
       description:
         - Multi-Objective Reinforcement Learning.
     - title: Deep Learning Engineer Intern
@@ -44,21 +44,18 @@
 - title: Skills
   type: list
   contents:
-    - <u>Programming:</u> Python, C++, R, Shell, PostgreSQL, MySQL, LISP
-    - <u>Packages:</u> PyTorch, Matplotlib, Sklearn, ...
+    - <u><b>Research & Modeling:</b></u> Reinforcement Learning, Deep Learning, Machine Learning
+    - <u><b>Programming:</b></u> Python, C++, R, Shell, PostgreSQL, MySQL, LISP
+    - <u>Packages:</u> PyTorch, Matplotlib, Sklearn, WanDB ...
     - <u>Database:(?)</u> Spark, MongoDB
 
-- title: Graduate & Ugrad Courses
+- title: Courses
   type: list
   contents:
-    - <b>COM SCI 269 (A)</b> - Deep Generative Models
-    - <b>COM SCI 249 (A)</b> - Graph Neural Networks
-    - <b>STATS M231A (A)</b> - Pattern Recognition and Machine Learning
-    - <b>STATS 231B (A)</b> - Methods of Machine Learning
-    - <b>EC Engr 236B (IP)</b> - Convex Optimization
-    - <b>COM SCI Ugrad</b> - Directed Research, Artificial Intelligence, Deep Learning for Computer Vision, Data Management Systems, Advanced Programming C++, Python w. Applications
-    - <b>MATH Ugrad</b> - Probability, Mathematical Statistics, Stochastic Processes, Algorithms, Applied Numerical Analysis, Mathematical Methods for Data Theory, Machine Learning, Optimization, Real Analysis, Complex Analysis, Linear Algebra, Multi Calc, Discrete Math, Diff Eq
-    - <b>STATS Ugrad</b> - Monte Carlo Methods, Linear Models, Data Mining, Experiment Design, Data Analysis & Regression, Probablistic Decision Making, Statistical Programming, Statistical Reasoning
+    - <u><b>CS | ECE | STATS Grad-Level</b></u> - Deep Generative Models, Graph Neural Networks, Pattern Recognition and Machine Learning, Methods of Machine Learning, Convex Optimization
+    - <b>CS Ugrad</b> - Directed Research, Artificial Intelligence, Deep Learning for Computer Vision, Data Management Systems, Advanced Programming C++, Python w. Applications
+    - <b>MATH Ugrad</b> - Probability, Mathematical Statistics, Stochastic Processes, Algorithms, Applied Numerical Analysis, Mathematical Methods for Data Theory, Machine Learning, Optimization, Real Analysis, Complex Analysis
+    - <b>STATS Ugrad</b> - Monte Carlo Methods, Linear Models, Data Mining, Experiment Design, Data Analysis & Regression, Probablistic Decision Making
 
 - title: Other Interests
   type: list
